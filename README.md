@@ -8,8 +8,8 @@ The goal is to support smart transportation systems and improve traffic manageme
 ---
 
 ## 👤 Author
-- Name: Your Name  
-- Group: Your Group  
+- Name:  Ruslan Asgarov 
+- Group: 2444i
 
 ---
 # 📽️ Presentation Slides
