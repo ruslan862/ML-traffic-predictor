@@ -1,0 +1,23 @@
+traffic-ml-project/
+│
+├── data/
+│   └── traffic.csv             
+│
+├── visuals/
+│   ├── hour.png                
+│   ├── junction.png             
+│   ├── pred.png                 
+│   └── heatmap.png            
+│
+├── models/
+│   └── traffic_model.pkl       
+│
+├── notebooks/
+│   └── traffic_analysis.ipynb  
+│
+├── src/
+│   └── model.py                
+│
+├── requirements.txt
+├── README.md
+└── 
