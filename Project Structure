@@ -9,8 +9,6 @@ traffic-ml-project/
 │   ├── pred.png                 
 │   └── heatmap.png            
 │
-├── models/
-│   └── traffic_model.pkl       
 │
 ├── notebooks/
 │   └── traffic_analysis.ipynb  
