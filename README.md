@@ -13,7 +13,7 @@ The goal is to support smart transportation systems and improve traffic manageme
 
 ---
 # 📽️ Presentation Slides
-👉 [Click here to view project slides](https://docs.google.com/presentation/d/1LXQDZGZF_a7s7tFkrAfK9tWHMinJYnZn/edit?usp=drive_link&ouid=103493244324584131487&rtpof=true&sd=true)
+👉 [Click here to view project slides]( https://docs.google.com/presentation/d/1ndK46kADDBtPHsr6MdoA4iULma_-S4Z_/edit?usp=drivesdk&ouid=103493244324584131487&rtpof=true&sd=true)
 
 ---
 
